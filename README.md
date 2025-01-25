@@ -47,7 +47,7 @@ Ce projet est une API de gestion de réservations d'hôtels conçue pour permett
 - **Interface utilisateur** : XML pour les layouts, avec des composants Material Design pour une expérience utilisateur moderne.
 - **Gestion des sessions** : Stockage des tokens JWT localement pour maintenir la session utilisateur.
   ## Architecture de l'application
-  <img width="896" alt="Image" src="https://github.com/user-attachments/assets/ae4762f5-8265-4b5d-8ccc-b187f5478eba" />
+  <img width="917" alt="Image" src="https://github.com/user-attachments/assets/e113f863-ea55-412f-acbc-3d29861399e0" />
 
 
 ## Prérequis
