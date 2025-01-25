@@ -47,8 +47,7 @@ Ce projet est une API de gestion de réservations d'hôtels conçue pour permett
 - **Interface utilisateur** : XML pour les layouts, avec des composants Material Design pour une expérience utilisateur moderne.
 - **Gestion des sessions** : Stockage des tokens JWT localement pour maintenir la session utilisateur.
   ## Architecture de l'application
-  <img width="896" alt="Image" src="https://github.com/user-attachments/assets/ae4762f5-8265-4b5d-8ccc-b187f5478eba" />
-
+ <img width="917" alt="Image" src="https://github.com/user-attachments/assets/ca52fcc3-9a09-4a66-83df-5c21d89860e3" />
 
 ## Prérequis
 ### Backend
@@ -66,7 +65,7 @@ Ce projet est une API de gestion de réservations d'hôtels conçue pour permett
 ### Backend
 1. **Cloner le dépôt** :
 ```bash
-git clone https://github.com/fatikhalil/Reservation-volley-java.git
+git clone https://github.com/fatikhalil/Reservation-retrofit-kotlin.git
 cd votre-projet/backend
 ```
 2. **Configurer la base de données** :
