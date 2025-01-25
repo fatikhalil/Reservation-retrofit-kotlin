@@ -34,7 +34,7 @@ Ce projet est une API de gestion de réservations d'hôtels conçue pour permett
 ## Technologies Utilisées
 ### Backend
 - **Framework** : Spring Boot (pour la création d'API RESTful).
-- **Langage** : kotlin.
+- **Langage** : Java.
 - **Base de données** : MySQL (ou autre base de données relationnelle).
 - **Authentification** : JWT (JSON Web Tokens) pour sécuriser les endpoints.
 - **Gestion des dépendances** : Maven ou Gradle.
@@ -43,11 +43,11 @@ Ce projet est une API de gestion de réservations d'hôtels conçue pour permett
 ### Frontend
 - **IDE** : Android Studio.
 - **Langage** : kotlin.
-- **Bibliothèque de réseau** : Volley pour les requêtes HTTP vers l'API backend.
+- **Bibliothèque de réseau** : Retrofit pour les requêtes HTTP vers l'API backend.
 - **Interface utilisateur** : XML pour les layouts, avec des composants Material Design pour une expérience utilisateur moderne.
 - **Gestion des sessions** : Stockage des tokens JWT localement pour maintenir la session utilisateur.
   ## Architecture de l'application
-  <img width="917" alt="Image" src="https://github.com/user-attachments/assets/e113f863-ea55-412f-acbc-3d29861399e0" />
+  <img width="896" alt="Image" src="https://github.com/user-attachments/assets/ae4762f5-8265-4b5d-8ccc-b187f5478eba" />
 
 
 ## Prérequis
@@ -66,7 +66,7 @@ Ce projet est une API de gestion de réservations d'hôtels conçue pour permett
 ### Backend
 1. **Cloner le dépôt** :
 ```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
+git clone https://github.com/fatikhalil/Reservation-volley-java.git
 cd votre-projet/backend
 ```
 2. **Configurer la base de données** :
@@ -142,4 +142,5 @@ spring.jpa.hibernate.ddl-auto=update
 ## Auteurs
 - **KHALIL Fatima** - Développeur principal - **fatimakhalil929@gmail.com**
 ## Démonstration vidéo
+https://github.com/user-attachments/assets/4c0ca0ee-b678-485d-b347-3799546043f3
 
